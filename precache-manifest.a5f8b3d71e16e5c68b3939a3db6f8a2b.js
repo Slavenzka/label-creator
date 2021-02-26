@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "187d492826de043f7ea20a960566c30c",
+    "revision": "1a15945b4a72e3f6f21aa8523e174d06",
     "url": "/label-creator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/label-creator/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "2f1ab9db7563930b98b0",
+    "revision": "3556a353313fe9b50108",
     "url": "/label-creator/static/css/main.18e1ceee.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/label-creator/static/js/2.0a3db840.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f1ab9db7563930b98b0",
-    "url": "/label-creator/static/js/main.f8922862.chunk.js"
+    "revision": "3556a353313fe9b50108",
+    "url": "/label-creator/static/js/main.03202293.chunk.js"
   },
   {
     "revision": "cf8ead9f170828991678",
