@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/label-creator/static/css/main.14dbf23f.chunk.css",
-    "main.js": "/label-creator/static/js/main.15f275f2.chunk.js",
-    "main.js.map": "/label-creator/static/js/main.15f275f2.chunk.js.map",
+    "main.js": "/label-creator/static/js/main.9c9c2509.chunk.js",
+    "main.js.map": "/label-creator/static/js/main.9c9c2509.chunk.js.map",
     "runtime-main.js": "/label-creator/static/js/runtime-main.b521124d.js",
     "runtime-main.js.map": "/label-creator/static/js/runtime-main.b521124d.js.map",
     "static/css/2.769dd305.chunk.css": "/label-creator/static/css/2.769dd305.chunk.css",
     "static/js/2.bd5b967b.chunk.js": "/label-creator/static/js/2.bd5b967b.chunk.js",
     "static/js/2.bd5b967b.chunk.js.map": "/label-creator/static/js/2.bd5b967b.chunk.js.map",
     "index.html": "/label-creator/index.html",
-    "precache-manifest.d9f6eb910bb1a1cd386208e188da7370.js": "/label-creator/precache-manifest.d9f6eb910bb1a1cd386208e188da7370.js",
+    "precache-manifest.109c605d78d1e58da40bb62ce2a749fe.js": "/label-creator/precache-manifest.109c605d78d1e58da40bb62ce2a749fe.js",
     "service-worker.js": "/label-creator/service-worker.js",
     "static/css/2.769dd305.chunk.css.map": "/label-creator/static/css/2.769dd305.chunk.css.map",
     "static/css/main.14dbf23f.chunk.css.map": "/label-creator/static/css/main.14dbf23f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.769dd305.chunk.css",
     "static/js/2.bd5b967b.chunk.js",
     "static/css/main.14dbf23f.chunk.css",
-    "static/js/main.15f275f2.chunk.js"
+    "static/js/main.9c9c2509.chunk.js"
   ]
 }
